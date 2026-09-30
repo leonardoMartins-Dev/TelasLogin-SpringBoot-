@@ -1,0 +1,15 @@
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/application/TelaLoginApplication.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/config/AdminSeeder.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/config/RecaptchaFilter.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/config/SecurityConfig.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/config/UserConfig.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/controller/SecureLoginController.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/exception/GlobalExceptionHandler.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/exception/SendEmailException.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/models/User.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/repository/UserRepository.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/service/DatabaseUserDetailsService.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/service/PasswordRecoveryService.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/service/RecaptchaService.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/service/SendEmailService.java
+/Users/leonardomartinsmacedo/Desktop/Springboot/TelaLogin+Supabase/src/main/java/com/example/TelaLogin/service/UserService.java
